@@ -50,9 +50,9 @@ beberapa fitur tidak dapat bekerja.
 
 > Saya juga menyediakan fitur PRO yang memiliki beberapa perubahan signifikan dan peningkatan security. Jika anda tertarik dapat menghubungi saya. Untuk versio Pro ini kemungkinan akan rilis pada awal tahun depan 01 Juli 2023.
 
-## CPSMI Custom Version
+## Company Profile Custom Version
 
 > Saya juga menyediakan versi custom sesuai kebutuhan dan pengunaan kalian. jika berminat silahkan hubungi saya.
 
 ### Kontak
-[WhatsApp](https://wa.me/6285155405002/)
+[WhatsApp](https://wa.me/62895623473071/)
