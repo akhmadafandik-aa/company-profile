@@ -20,7 +20,7 @@
 
 ## Kebutuhan Server
 
-PHP versi 7.1 atau lebih baru direkomendasikan.
+PHP versi 7.4 atau lebih baru direkomendasikan.
 
 Dapat berjalan juga di 5.3.7, tapi kemungkinan tidak akan berjalan baik
 untuk versi php lama, karena potensi keamanan dan kinerja, yang memungkinkan
@@ -29,26 +29,26 @@ beberapa fitur tidak dapat bekerja.
 ### Instalasi
 
 - Install XAMPP versi terbaru (`Download <https://www.apachefriends.org/download.html>`_).
-  - Pastikan minimal versi PHP 7.1 dan versi MySQL 5.
-- Salin / pindahkan source-code CPSMI ke "/Applications/XAMPP/xamppfiles/htdocs/" (path mungkin tidak sama).
+  - Pastikan minimal versi PHP 7.4 dan versi MySQL 5.
+- Salin / pindahkan source-code company-profile ke "/Applications/XAMPP/xamppfiles/htdocs/" (path mungkin tidak sama).
 - Buka `PHPMyAdmin <http://localhost/phpmyadmin>`_ pada browser.
-  - Pilih menu "Import", kemudian arahkan sumber file ke folder "/CPSMI/database/cpsmi-for-mysql-5.X.sql".
+  - Pilih menu "Import", kemudian arahkan sumber file ke folder "/company-profile/database/landing_db.sql".
   - Klik Go / Kirim.
 - Test aplikasi dengan mengakses url :
-  - Front-end : `http://localhost/cpsmi/ <http://localhost/cpsmi>`_
-  - Back-end : `http://localhost/cpsmi/panel/ <http://localhost/cpsmi/panel>`_
+  - Front-end : `http://localhost/company-profile/ <http://localhost/company-profile>`_
+  - Back-end : `http://localhost/company-profile/panel/ <http://localhost/company-profile/panel/>`_
 
 # Contributors
 
 > Ingin jadi kontributor dalam project ini? Silahkan open request, ini sangat terbuka untuk siapun yang mau bergabung
 
-<a href="https://github.com/rahmatsubandi/cpsmi/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rahmatsubandi/cpsmi" />
+<a href="https://github.com/akhmadafandik-aa/company-profile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akhmadafandik-aa/company-profile" />
 </a>
 
-## CPSMI PRO Version
+## Company Profile PRO Version
 
-> Saya juga menyediakan fitur PRO yang memiliki beberapa perubahan signifikan dan peningkatan security. Jika anda tertarik dapat menghubungi saya. Untuk versio Pro ini kemungkinan akan rilis pada awal tahun depan 01 Januari 2023.
+> Saya juga menyediakan fitur PRO yang memiliki beberapa perubahan signifikan dan peningkatan security. Jika anda tertarik dapat menghubungi saya. Untuk versio Pro ini kemungkinan akan rilis pada awal tahun depan 01 Juli 2023.
 
 ## CPSMI Custom Version
 
